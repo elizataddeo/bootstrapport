@@ -1,0 +1,28 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+h1{
+	font-family: "Lora", serif;
+	
+}
+
+h2{
+	font-family: "Lora", serif;
+	
+}
+
+p{
+	font-family: "Lora", serif;
+
+}
+
+img{
+	padding: 5px;
+}
+
+#page-top{
+	background-color: cream;
+}
+
+.about{
+	background-color: light red;
+}
